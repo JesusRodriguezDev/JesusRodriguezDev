@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**JesusRodriguezDev/JesusRodriguezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Skills I have and continue to learn more about:
+[![My Skills](https://skillicons.dev/icons?i=py,go,js,html,css,react,nodejs,terraform,unity,git,flutter,swift,androidstudio,blender,aws,godot,postman,postgres,mysql)](https://skillicons.dev)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
